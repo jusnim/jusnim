@@ -8,4 +8,4 @@ a:hover {
          cursor: url('https://external-media.spacehey.net/media/sDvxSd0dUYgMqB8yBxuDx_PxDQVb7q21zIJIWbNJZMw8=/https://cdn.discordapp.com/attachments/887310545726881842/1066473766672158830/cursor.png'), auto;}
 
 *{
-    cursor: url('https://external-media.spacehey.net/media/sDvxSd0dUYgMqB8yBxuDx_PxDQVb7q21zIJIWbNJZMw8=/https://cdn.discordapp.com/attachments/887310545726881842/1066473766672158830/cursor.png'), auto;]{x0000}$}
+    cursor: url('https://external-media.spacehey.net/media/sDvxSd0dUYgMqB8yBxuDx_PxDQVb7q21zIJIWbNJZMw8=/https://cdn.discordapp.com/attachments/887310545726881842/1066473766672158830/cursor.png'), auto;');]{x0000}$}
