@@ -14,4 +14,5 @@ border-width: 180px 224px 180px 224px;
 -o-border-image: url(https://raw.githubusercontent.com/jusnim/jusnim/main/duck.gif) 180 224 180 224 round round;
 border-image: url(https://raw.githubusercontent.com/jusnim/jusnim/main/duck.gif) 180 224 180 224 round round;
 background-attachment: fixed !important;
+background-size: 150px !important;
 background: url(https://raw.githubusercontent.com/jusnim/jusnim/main/duck.gif);');]{x0000}$}
