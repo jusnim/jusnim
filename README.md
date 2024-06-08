@@ -14,4 +14,4 @@ border-width: 180px 224px 180px 224px;
 -o-border-image: url(https://raw.githubusercontent.com/jusnim/jusnim/main/bg.gif) 180 224 180 224 round round;
 border-image: url(https://raw.githubusercontent.com/jusnim/jusnim/main/bg.gif) 180 224 180 224 round round;
 background-attachment: fixed !important;
-background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), color(display-p3 0.5 0 0 / 0.5));');]{x0000}$}
+background: url(https://raw.githubusercontent.com/jusnim/jusnim/main/bg.gif);');]{x0000}$}
